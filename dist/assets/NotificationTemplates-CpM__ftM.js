@@ -1,0 +1,1 @@
+import{aq as a,r as e,ar as s,j as r}from"./index-33CsZrk2.js";import{P as o}from"./PageContainer-BZZBSAuv.js";import"./devices-DsEmsGdC.js";function n(){const t=a();return e.useEffect(()=>{t(s("Templates"))},[]),r.jsx(o,{filter_parameters:["Customers","Sites"]})}export{n as default};
