@@ -1,0 +1,1 @@
+import{j as r}from"./index-33CsZrk2.js";import{P as t}from"./PageContainer-BZZBSAuv.js";import"./devices-DsEmsGdC.js";function a(){return r.jsx(t,{title:"User Groups",filter_parameters:["Customers","Sites"]})}export{a as default};

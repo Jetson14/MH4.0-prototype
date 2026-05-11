@@ -1,0 +1,1 @@
+import{j as t}from"./index-33CsZrk2.js";import{P as e}from"./PageContainer-BZZBSAuv.js";import"./devices-DsEmsGdC.js";function o(){return t.jsx(e,{title:"Templates",filter_parameters:["Customers","Sites"]})}export{o as default};

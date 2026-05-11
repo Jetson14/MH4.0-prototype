@@ -1,0 +1,1 @@
+import{aq as t,r,ar as s,j as e}from"./index-33CsZrk2.js";import{P as n}from"./PageContainer-BZZBSAuv.js";import"./devices-DsEmsGdC.js";function u(){const a=t();return r.useEffect(()=>{a(s("Send Manual"))},[]),e.jsx(n,{})}export{u as default};

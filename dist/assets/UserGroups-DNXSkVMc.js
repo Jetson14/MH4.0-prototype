@@ -1,0 +1,1 @@
+import{aq as s,r as t,ar as e,j as a}from"./index-33CsZrk2.js";import{P as o}from"./PageContainer-BZZBSAuv.js";import"./devices-DsEmsGdC.js";function m(){const r=s();return t.useEffect(()=>{r(e("User Groups"))},[]),a.jsx(o,{filter_parameters:["Customers","Sites"]})}export{m as default};
